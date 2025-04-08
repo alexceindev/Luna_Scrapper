@@ -1,0 +1,2 @@
+Este programa tiene como finalidad acceder a 3 paginas de la empresa que se usaban para sacar diversos datos del cliente de forma automatica, ya que antiguamente tenian a 3 personas solo sacando esta informacion.
+obviamente como este programa es de una empresa elimine toda la informacion confidencial, pero el codigo bruto lo deje disponible con el unico proposito de mostrar con un ejemplo real de mi experiencia.
